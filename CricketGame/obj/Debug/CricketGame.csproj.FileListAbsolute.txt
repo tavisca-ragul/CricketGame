@@ -1,0 +1,12 @@
+C:\Users\rkrishnan\source\repos\CricketGame\CricketGame\bin\Debug\CricketGame.dll
+C:\Users\rkrishnan\source\repos\CricketGame\CricketGame\bin\Debug\CricketGame.pdb
+C:\Users\rkrishnan\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.csprojAssemblyReference.cache
+C:\Users\rkrishnan\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.CoreCompileInputs.cache
+C:\Users\rkrishnan\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.dll
+C:\Users\rkrishnan\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.pdb
+C:\Users\rkrishnan\Desktop\CricketGame\CricketGame\bin\Debug\CricketGame.dll
+C:\Users\rkrishnan\Desktop\CricketGame\CricketGame\bin\Debug\CricketGame.pdb
+C:\Users\rkrishnan\Desktop\CricketGame\CricketGame\obj\Debug\CricketGame.csprojAssemblyReference.cache
+C:\Users\rkrishnan\Desktop\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.CoreCompileInputs.cache
+C:\Users\rkrishnan\Desktop\CricketGame\CricketGame\obj\Debug\CricketGame.dll
+C:\Users\rkrishnan\Desktop\CricketGame\CricketGame\obj\Debug\CricketGame.pdb
